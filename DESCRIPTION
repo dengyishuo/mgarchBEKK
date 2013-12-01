@@ -1,0 +1,10 @@
+Package: mgarchBEKK
+Version: 0.07-8
+Date: 2006-06-15
+Title: BEKK(p,q) implementation for MGARCH models
+Author: Harald SCHMIDBAUER <harald@hs-stat.com>,
+        Vehbi Sinan TUNALIOGLU <vst@vsthost.com>
+Maintainer: Jeffrey Ryan <jeff.a.ryan@gmail.com>
+Description: Package for Multivariate GARCH implementation through a BEKK(p,q) model
+License: GPL-2
+Packaged: 2010-11-16 09:08:31 UTC; jryan

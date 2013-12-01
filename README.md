@@ -1,4 +1,0 @@
-mgarchBEKK
-==========
-
-mgarchBEKK

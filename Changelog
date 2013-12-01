@@ -1,0 +1,23 @@
+2007-12-25 Jeffrey A Ryan <jeff.a.ryan@gmail.com>
+    * bug fix of trailing commas in argument list
+
+2006-06-15 Vehbi Sinan Tunalioglu <vst@vsthost.com>
+	* new version is: 0.07-8
+	* count.triangular added as an inner function to mvBEKK.sim too
+
+2006-06-13 Vehbi Sinan Tunalioglu <vst@vsthost.com>
+	* new version is: 0.07-7
+	* bug in cdts removed
+	* elementary analysis no more depend on English locale
+	* count.triangular is now an inner function
+	* from.to argument to cdts added to man page
+
+2006-06-13 Vehbi Sinan Tunalioglu <vst@vsthost.com>
+	* new version is: 0.07-6
+	* added cdts (combine daily time series) and
+	  elem.an (elementary analysis)
+
+2005-04-23 Vehbi Sinan Tunalioglu <vst@vsthost.com>
+	* new version is: 0.07-1
+	* re-organizing package structure
+	* starting to integrate the multivariate version
